@@ -1,0 +1,13 @@
+{
+  "school_name": "My School",
+  "students": [
+    {
+      "name": "Andy",
+      "age": 20
+    },
+    {
+      "name": "Shane",
+      "age": 21
+    }
+  ]
+}
